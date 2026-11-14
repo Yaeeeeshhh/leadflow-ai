@@ -76,6 +76,8 @@ The platform combines a React dashboard, Supabase backend, Gemini-powered AI pro
 
 ## System Architecture
 
+## System Architecture
+
 ```mermaid
 flowchart TD
     A["Lead Submission"] --> B["n8n Lead Capture Workflow"]
